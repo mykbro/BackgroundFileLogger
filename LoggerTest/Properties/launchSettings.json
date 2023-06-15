@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoggerTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
